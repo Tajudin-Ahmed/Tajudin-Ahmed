@@ -42,24 +42,21 @@ From **data collection and cleaning to analysis, visualization, and insight gene
 # 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/tajudin-ahmed-a63002144/">
-<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170px"/>
-</a>
+<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="170px"/></a>
 
 <a href="https://tajudin-ahmed.github.io">
-<img align="left" src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" width="170px"/>
-</a>
+<img align="left" src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" width="170px" height="43px"/></a>
 
 <a href="https://medium.com/@tajudin-ahmed">
 <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150px"/>
 </a>
 
 <a href="https://tajudii.substack.com/">
-<img align="left" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" width="150px"/>
-</a>
+<img align="left" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" width="170px"/></a>
 
 <a href="mailto:taju.diin67@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" width="150px"/>
-</a>
+<img align="center" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" width="170px" height="39px"/></a>
+
 <br><br>
 
 💬 If you are interested in **collaborating on data analytics, public health analysis, or humanitarian data projects**, feel free to reach out.
